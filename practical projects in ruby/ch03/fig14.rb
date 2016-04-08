@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
-"Hello John".length
-"Hello John".empty?
-"1000".to_s
-"1000".to_i
-"1000".to_f
+puts "Hello John".length
+puts "Hello John".empty?
+puts "1000".to_s
+puts "1000".to_i
+puts "1000".to_f

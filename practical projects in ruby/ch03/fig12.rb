@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
-"Hello John".downcase
-"Hello John".upcase
-"hello john".capitalize
-"Hello John".swapcase
-"Hello John".reverse
+puts "Hello John".downcase
+puts "Hello John".upcase
+puts "hello john".capitalize
+puts "Hello John".swapcase
+puts "Hello John".reverse

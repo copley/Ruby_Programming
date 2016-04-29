@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
 length_check = Proc.new do |dvd|
-	if(dvd[1].to_i < 120)
-		dvd
-	else
-		nil
-	end
+  if(dvd[1].to_i < 120)
+    dvd
+  else
+    nil
+  end
 end
 
 age_check = lambda { |dvd| (dvd[3].to_i.between?(10,15) ? dvd : nil) }

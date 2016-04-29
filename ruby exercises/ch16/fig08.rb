@@ -5,9 +5,9 @@ class Validation
     def initialize(value)
         @value = value
     end
-    
+
     CHECK_QUERY_REGEX = /^is_((?:_or_)?[a-z]+?)+\?$/i
- 
+
     def method_missing(meth, *args, &block)
         if CHECK_QUERY_REGEX.match meth.to_s
           self.class.class_eval <<-end_eval

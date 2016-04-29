@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 loop do
-	puts "Hello World"
+  puts "Hello World"
 end

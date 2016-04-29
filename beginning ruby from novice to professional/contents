@@ -1,0 +1,25 @@
+PART 1 ■ ■ ■ Foundations and Scaffolding
+■CHAPTER 1 Let’s Get It Started: Installing Ruby . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+■CHAPTER 2 Programming == Joy: A Whistle-Stop Tour of Ruby and
+Object Orientation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+■CHAPTER 3 Ruby’s Building Blocks: Data, Expressions, and Flow Control . . . . . . . . . . 35
+■CHAPTER 4 Developing a Basic Ruby Application . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+■CHAPTER 5 The Ruby Ecosystem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+PART 2 ■ ■ ■ The Core of Ruby
+■CHAPTER 6 Classes, Objects, and Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+■CHAPTER 7 Projects and Libraries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+■CHAPTER 8 Documentation, Error Handling, Debugging, and Testing . . . . . . . . . . . . . 201
+■CHAPTER 9 Files and Databases. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+■CHAPTER 10 Deploying Ruby Applications and Libraries. . . . . . . . . . . . . . . . . . . . . . . . . . 279
+■CHAPTER 11 Advanced Ruby Features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 309
+■CHAPTER 12 Tying It Together: Developing a Larger Ruby Application . . . . . . . . . . . . . 341
+PART 3 ■ ■ ■ Ruby Online
+■CHAPTER 13 Ruby on Rails: Ruby’s Killer App. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 387
+■CHAPTER 14 Ruby and the Internet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+■CHAPTER 15 Networking, Sockets, and Daemons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 467
+■CHAPTER 16 Useful Ruby Libraries and Gems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 493
+v
+7664 FM.qxd 2/28/07 10:47 AM Page v
+■APPENDIX A Ruby Primer and Review for Developers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 549
+■APPENDIX B Ruby Reference. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 581
+■APPENDIX C Useful Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 601
